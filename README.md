@@ -13,9 +13,6 @@ A compact, from-scratch masked-word prediction project implementing a Transforme
 * Hyperparameters
 * Evaluation
 * Outputs
-* How to run
-* File structure
-* Future work
 
 ---
 
